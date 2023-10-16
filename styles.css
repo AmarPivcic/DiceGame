@@ -1,0 +1,97 @@
+a:visited,
+a:hover,
+a:focus,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: white;
+}
+
+*{
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: rgb(25, 25, 25);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #F6C90E;
+}
+
+.player {
+  font-size: 2rem;
+  color: #F6C90E;
+  font-family: 'Orbitron', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+.scorecontainer{
+  display: flex;
+  justify-content: center;
+}
+
+#result{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.button{
+  border: none;
+  border-radius: 5px;
+  font-size: 16pt;
+  background-color: #F6C90E;
+  color: white;
+  cursor: pointer;
+  width: 90px;
+  height: 45px;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.btncontainer{
+  width: 100%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+@media (max-width:576px){
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .player {
+    font-size: 1rem;
+  }
+
+  img {
+    width: 70%;
+  }
+}
