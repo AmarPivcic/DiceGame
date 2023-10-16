@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Dicee</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
+
+  </head>
+  <body>
+
+    <div class="container">
+      <h1 class="result">Roll the dices!</h1>
+
+      <div class="dice">
+        <p class="player">Player 1</p>
+        <img class="img1" src="./images/dice6.png">
+      </div>
+
+      <div class="dice">
+        <p class="player">Player 2</p>
+        <img class="img2" src="./images/dice6.png">
+      </div>
+    </div>
+
+    <div class="scorecontainer">
+      <p class="player">Player 1</p>
+      <p class="player" id="result"> <span id="player1score">0</span>-<span id="player2score">0</span></p>
+      <p class="player">Player 2</p>
+    </div>
+
+    <div class="btncontainer">
+      <button onclick="rollDice()" class="button">Roll!</button>
+      <button onclick="reset()" class="button">Reset</button>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+
+  <footer>
+    <a href="https://github.com/AmarPivcic">www🎲github🎲com🎲AmarPivcic</a>
+  </footer>
+</html>
