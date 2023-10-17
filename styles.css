@@ -18,6 +18,7 @@ a:active {
   text-align: center;
 }
 
+
 .dice {
   text-align: center;
   display: inline-block;
@@ -60,7 +61,7 @@ footer {
   margin-top: 5%;
   color: #EEEEEE;
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .button{
