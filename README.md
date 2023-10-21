@@ -1,17 +1,23 @@
+# Dice Game
+
 Dice Rolling Game made for having fun or when you really need some dices but you don't have any.
 
-Features:
+###Features
 
-  - Sound of rolling dices
-  - "Rolling" the dices 10 times before selecting a number
-  - Winner/Draw Message
-  - Scoreboard
-  - Reset button for reseting the scoreboard
+- Sound of rolling dices
+- "Rolling" the dices 10 times before selecting a number
+- Winner/Draw Message
+- Scoreboard
+- Reset button for reseting the scoreboard
 
-Technologies used:
 
-HTML, CSS, JavaScript, jQuery
+###Technologies used
 
-Feedback:
+- HTML
+- CSS
+- JavaScript
+- jQuery
 
-If you have any feedback or questions about this or any other project, feel free to contact me
+###Feedback
+
+If you have any feedback or questions about this or any other project, feel free to contact me.
