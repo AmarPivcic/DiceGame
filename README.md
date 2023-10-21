@@ -2,7 +2,7 @@
 
 Dice Rolling Game made for having fun or when you really need some dices but you don't have any.
 
-###Features
+### Features
 
 - Sound of rolling dices
 - "Rolling" the dices 10 times before selecting a number
@@ -11,13 +11,13 @@ Dice Rolling Game made for having fun or when you really need some dices but you
 - Reset button for reseting the scoreboard
 
 
-###Technologies used
+### Technologies used
 
 - HTML
 - CSS
 - JavaScript
 - jQuery
 
-###Feedback
+### Feedback
 
 If you have any feedback or questions about this or any other project, feel free to contact me.
