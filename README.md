@@ -18,6 +18,6 @@ Dice Rolling Game made for having fun or when you really need some dices but you
 - JavaScript
 - jQuery
 
-### Feedback
+## Feedback
 
 If you have any feedback or questions about this or any other project, feel free to contact me.
